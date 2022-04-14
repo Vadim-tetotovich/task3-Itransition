@@ -1,0 +1,20 @@
+{
+    "type": "module",
+    "dependencies": {
+        "bluebird": "^3.7.2",
+        "bower": "^1.8.14",
+        "console.table": "^0.10.0",
+        "hmac-js": "^1.0.8",
+        "js-sha3": "^0.8.0",
+        "ngx-table-generator": "^0.0.1",
+        "node-console-input": "^1.1.1",
+        "object-sizeof": "^1.6.3",
+        "prompt": "^1.3.0",
+        "random-number-csprng": "^1.0.2",
+        "readline": "^1.3.0",
+        "report": "^0.1.1",
+        "require": "^2.4.20",
+        "sha3": "^2.1.4",
+        "table-generator": "^2.1.0"
+    }
+}
